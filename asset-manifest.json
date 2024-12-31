@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fudd-memecoin/static/css/main.f855e6bc.css",
-    "main.js": "/fudd-memecoin/static/js/main.9608298e.js",
-    "static/js/488.ab327685.chunk.js": "/fudd-memecoin/static/js/488.ab327685.chunk.js",
-    "index.html": "/fudd-memecoin/index.html",
-    "main.f855e6bc.css.map": "/fudd-memecoin/static/css/main.f855e6bc.css.map",
-    "main.9608298e.js.map": "/fudd-memecoin/static/js/main.9608298e.js.map",
-    "488.ab327685.chunk.js.map": "/fudd-memecoin/static/js/488.ab327685.chunk.js.map"
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.79317d43.js",
+    "static/js/488.ab327685.chunk.js": "/static/js/488.ab327685.chunk.js",
+    "index.html": "/index.html",
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.79317d43.js.map": "/static/js/main.79317d43.js.map",
+    "488.ab327685.chunk.js.map": "/static/js/488.ab327685.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.9608298e.js"
+    "static/js/main.79317d43.js"
   ]
 }
